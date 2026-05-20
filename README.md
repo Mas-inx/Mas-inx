@@ -23,7 +23,7 @@ Building high-end digital products, AI automation workflows, and cross-platform 
 </ul>
 </td>
 <td width="45%" valign="top" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=F4733A&text_color=FEFEFE&icon_color=2191D0" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mas-inx&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=F4733A&text_color=FEFEFE&icon_color=2191D0" alt="GitHub Stats" width="100%" />
 </td>
 </tr>
 
@@ -44,7 +44,7 @@ Building high-end digital products, AI automation workflows, and cross-platform 
 </p>
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=F9A33E&text_color=FEFEFE" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mas-inx&layout=compact&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=F9A33E&text_color=FEFEFE" alt="Top Languages" width="100%" />
 </td>
 </tr>
 
