@@ -13,14 +13,7 @@ Building high-end digital products, AI automation workflows, and cross-platform 
 
 <tr>
 <td width="55%" valign="top">
-<h3 align="left">🚀 Current Projects</h3>
-<ul>
-<li><b>NitroDial:</b> AI-powered outbound cold calling SaaS.</li>
-<li><b>illumi:</b> iOS geofencing rewards app (RN Expo + Supabase).</li>
-<li><b>ARFS:</b> Remote fiber monitoring SaaS for ISPs.</li>
-<li><b>NetOps:</b> Comprehensive fleet management system.</li>
-<li><b>AIViraLabs & Imaginify:</b> AI UGC video and image generation platforms.</li>
-</ul>
+<img src="./glass-card.svg" width="100%" alt="Projects Glass Card" />
 </td>
 <td width="45%" valign="top" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mas-inx&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=F4733A&text_color=FEFEFE&icon_color=2191D0" alt="GitHub Stats" width="100%" />
