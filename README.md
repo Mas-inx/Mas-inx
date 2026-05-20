@@ -36,15 +36,21 @@
   <br><br>
 
   <h3>📈 GitHub Analytics</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mas-inx&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=F4733A&text_color=FEFEFE&icon_color=2191D0&show_icons=true" alt="Main GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mas-inx&layout=compact&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=F9A33E&text_color=FEFEFE" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mas-inx&theme=dark&hide_border=true&background=1A1A1A&ring=2191D0&fire=F4733A&currStreakNum=FEFEFE" alt="GitHub Streak" />
-  </p>
+  
+  <a href="https://github.com/Mas-inx">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mas-inx&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=F4733A&text_color=FEFEFE&icon_color=2191D0&show_icons=true" alt="Main GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/Mas-inx">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mas-inx&layout=compact&theme=radical&hide_border=true&bg_color=1A1A1A&title_color=F9A33E&text_color=FEFEFE" alt="Top Languages" height="150" />
+  </a>
+  
+  <br><br>
+  
+  <a href="https://github.com/Mas-inx">
+    <img src="https://streak-stats.demolab.com/?user=Mas-inx&theme=dark&hide_border=true&background=1A1A1A&ring=2191D0&fire=F4733A&currStreakNum=FEFEFE" alt="GitHub Streak" height="150" />
+  </a>
 
-  <br>
+  <br><br>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F9A33E&height=2" width="60%" alt="Divider" />
 
