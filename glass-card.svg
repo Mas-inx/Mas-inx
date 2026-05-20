@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="250">
+  <defs>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="30" />
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#1A1A1A" />
+
+  <circle cx="50" cy="50" r="80" fill="#2191D0" opacity="0.6" filter="url(#blur)" />
+  <circle cx="400" cy="200" r="90" fill="#F4733A" opacity="0.4" filter="url(#blur)" />
+
+  <rect x="20" y="20" width="410" height="210" rx="16" 
+        fill="rgba(255, 255, 255, 0.05)" 
+        stroke="rgba(255, 255, 255, 0.15)" 
+        stroke-width="1.5" />
+
+  <text x="45" y="65" fill="#FEFEFE" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="bold">Founder @ AsyncTech</text>
+  <text x="45" y="105" fill="#FEFEFE" font-family="system-ui, -apple-system, sans-serif" font-size="14">🚀 NitroDial (AI Outbound)</text>
+  <text x="45" y="135" fill="#FEFEFE" font-family="system-ui, -apple-system, sans-serif" font-size="14">📍 illumi (iOS Geofencing)</text>
+  <text x="45" y="165" fill="#FEFEFE" font-family="system-ui, -apple-system, sans-serif" font-size="14">🌐 ARFS (ISP Fiber Monitoring)</text>
+</svg>
